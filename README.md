@@ -2,6 +2,11 @@
 
 lab session 25 November 2024
 
+# Requirements
+
+-   Node
+-   NPM
+
 # How to run
 
 1. Make sure `.env` contains `API_KEY` from Gemini API.
