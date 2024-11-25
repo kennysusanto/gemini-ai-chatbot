@@ -1,0 +1,26 @@
+{
+    "name": "gemini-ai-chatbot",
+    "version": "1.0.0",
+    "description": "lab session 25 November 2024",
+    "main": "chatbot-basic.js",
+    "type": "module",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.26.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kennysusanto/gemini-ai-chatbot.git"
+    },
+    "author": "kenny susanto",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/kennysusanto/gemini-ai-chatbot/issues"
+    },
+    "homepage": "https://github.com/kennysusanto/gemini-ai-chatbot#readme"
+}
